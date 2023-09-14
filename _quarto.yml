@@ -11,6 +11,8 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: fire
+        href: https://globalnews.ca/wp-content/uploads/2018/07/19374427.jpg?quality=85&strip=all
 format:
   html:
     theme: vapor
